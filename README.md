@@ -2,7 +2,7 @@ Welcome to the Torr Vision Group! We are very glad you are joining us, hope you 
 
 0) **If Phil has not authorized you, please make sure that you have emailed him to permit you to get on board.**
 1) Get access to the group GitHub to view the pages below and the rest of the group wiki. The current GitHub administrators are Shuyang, Runjia and Francisco*.
-2) Talk to Kit (ground level, IEB) to create a `robots` account. Your username must be 8 characters or less. This will give you an `robots.ox.ac.uk` email address, and allow you to set up your personal web page under the same domain. ([Tips on managing your email](https://github.com/torrvision/GroupWiKi/blob/master/Managing-robots-email-account.md))
+2) Talk to Ivan (ground level, IEB) to create a `robots` account. Your username must be 8 characters or less. This will give you an `robots.ox.ac.uk` email address, and allow you to set up your personal web page under the same domain. ([Tips on managing your email](https://github.com/torrvision/GroupWiKi/blob/master/Managing-robots-email-account.md))
 3) Ask an administrator of the Slack group (Katie) to be added to [Slack](https://torrvision.slack.com/), which is the team communication platform used by TVG.
 4) Ask the current mailing list admin (Katie) to be added to the `torr-vision` mailing list.
    - You should automatically receive seminar announcements simply by being in at least one of the `torr-vision`/`students`/`staff`/etc mail aliases.
