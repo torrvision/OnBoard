@@ -1,6 +1,6 @@
 Welcome to the Torr Vision Group! We are very glad you are joining us, hope you are going to have a blast with us (likewise, we look forward to working with you! :tada: ). 
 
-0) **If Phil has not authorized you, please make sure that you have emailed him to permit you to get on board.**
+0) **If Phil has not authorized you, please make sure that you have emailed him to permit you to get on board.***
 1) Get access to the group GitHub to view the pages below and the rest of the group wiki. The current GitHub administrators are Shuyang, Runjia and Francisco*.
 2) Talk to Ivan (ground level, IEB) to create a `robots` account. Your username must be 8 characters or less. This will give you an `robots.ox.ac.uk` email address, and allow you to set up your personal web page under the same domain. ([Tips on managing your email](https://github.com/torrvision/GroupWiKi/blob/master/Managing-robots-email-account.md))
 3) Ask an administrator of the Slack group (Katie) to be added to [Slack](https://torrvision.slack.com/), which is the team communication platform used by TVG.
@@ -11,4 +11,4 @@ Welcome to the Torr Vision Group! We are very glad you are joining us, hope you 
 
 If you have any problems with any of the following, please reach out to Phil or write in `#general` on Slack!
 
-\* For 0 and 3, alternatively, you may ask our group administrator Katie (katie.bourke@eng.ox.ac.uk) to be added, as she also has administrative permissions on some of these platforms.
+\* For 0, 1 and 3, alternatively, you may ask our group administrator Katie (katie.bourke@eng.ox.ac.uk) to be added, as she also has administrative permissions on some of these platforms.
